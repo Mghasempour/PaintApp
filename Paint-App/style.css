@@ -1,0 +1,16 @@
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h4 { 
+  text-align: center;
+}
+
+.input {
+  text-align: center;
+}
+::-webkit-input-placeholder {
+  text-align: center;
+}
